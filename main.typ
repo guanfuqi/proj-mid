@@ -13,6 +13,7 @@
     logo: box(image("assets/HIT-logo.png", height:1em)),
   ),
   // config-common(show-bibliography-as-footnote: bibliography("基础项目.bib",style:"gb-7714-2015-numeric")),
+  // config-common(show-bibliography-as-footnote: bibliography("基础项目.bib",style:"gb-7714-2015-numeric")),
 )
 #set heading(numbering: numbly("{1}.", default: "1.1"))
 #set text(lang:"zh", size: 22pt)
