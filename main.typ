@@ -6,7 +6,7 @@
 #show: university-theme.with(
   aspect-ratio: "16-9",
   config-info(
-    title: [面向低空无人机视觉感知任务的特征压缩编码研究],
+    title: [低空无人机视觉感知任务的特征压缩编码研究],
     subtitle: [基础项目实践中期答辩],
     author: [吴钦鸿 王渝凯],
     date: datetime.today(),
